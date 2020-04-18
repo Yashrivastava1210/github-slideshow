@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+1st Rule of Programming:
+        If it works, Don't touch it.
 Use the left arrow to go back!
